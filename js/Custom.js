@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Chúc ngiu M Quân giáng sinhh vuiii vẻ nhá. Lớp Diuuu 😍",
+                        "Chúc ngiu M Quân giáng sinhh vuiii vẻ nhá. Lớp Diuuu ❤️❤️❤️",
                         ],
                         typeSpeed: 250,
                         startDelay: 500,
