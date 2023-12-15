@@ -195,7 +195,7 @@ $(document).ready(function() {
                     $(".message").typed({
                         strings: [
                         "<<< Merry Christmas >>>",
-                        "Chúc Ngiu anh ( Phương ngơ :) ) có một mùa giáng sinh an lành và ấm áp :) Nghe nhạc zui zẻ nha!!!",
+                        "Chúc ngiu M Quân giáng sinhh vuiii vẻ nhá. Lớp Diuuu",
                         ],
                         typeSpeed: 250,
                         startDelay: 500,
